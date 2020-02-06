@@ -1,8 +1,8 @@
 ## Codepath_Prework
 
-##App Description
+### App Description
 This is a required "prework" for the android mobile dev of codepath course application.
-This simple project includes a textview, a button, and background color change features.
+This simple project includes views like textview, button, and background color change feature.
 
 ### App Walk-though
 
