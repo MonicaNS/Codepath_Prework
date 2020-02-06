@@ -4,9 +4,11 @@
 This is a required "prework" for the android mobile dev of codepath course application.
 This simple project includes views like textview, button, and background color change feature.
 
-### App Walk-though
+### Required App Walk-through
 
 <img src="https://i.imgur.com/Xfpxacs.gif" width=200><br>
+
+### Optional Walk-through
 <img src="https://i.imgur.com/ePUrue2.gif" width=200><br>
 
 ### Required User Stories
